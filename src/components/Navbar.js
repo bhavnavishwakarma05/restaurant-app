@@ -1,4 +1,4 @@
-import { logDOM } from "@testing-library/react";
+
 import React, { useRef } from "react";
 import Logo from "../assets/logo.png";
 import { cart } from "../Data";
